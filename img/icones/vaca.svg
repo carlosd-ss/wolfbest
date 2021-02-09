@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 24 24"
+   style="enable-background:new 0 0 24 24;"
+   xml:space="preserve"
+   id="svg1555"
+   sodipodi:docname="vaca.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata1561"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1559"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient4373"><stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop4369" /><stop
+       style="stop-color:#000000;stop-opacity:0;"
+       offset="1"
+       id="stop4371" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient4373"
+     id="linearGradient4375"
+     x1="-0.5"
+     y1="12"
+     x2="24.5"
+     y2="12"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient4373"
+     id="linearGradient4377"
+     x1="-0.30879406"
+     y1="11.344308"
+     x2="24.308794"
+     y2="11.344308"
+     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1080"
+   id="namedview1557"
+   showgrid="false"
+   inkscape:zoom="37.166667"
+   inkscape:cx="12"
+   inkscape:cy="12"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1555" />
+<style
+   type="text/css"
+   id="style1527">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#B07DFB;}
+	.st2{fill:none;stroke:#8844EE;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;}
+</style>
+<g
+   id="Duotone"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1">
+	<polygon
+   class="st0"
+   points="23.5,0.5 19.5,5.5 16,7 12,5.5 8,7 4.5,5.5 0.5,0.5 1.5,6.5 5.5,10.5 1.5,12 4,14.5 5.8,12.7    6.5,18.2 6.5,18.2 5.5,18.5 7,23.5 9.5,23.5 12,22 14.5,23.5 17,23.5 18.5,18.5 17.5,18.2 17.5,18.2 18.2,12.7 20,14.5 22.5,12    18.5,10.5 22.5,6.5  "
+   id="polygon1529"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polygon
+   class="st1"
+   points="6.5,18.2 12,16.5 17.8,18.3 17.8,18.3 17.5,18.2 17.5,18.2 18.2,12.9 15,9 12,8 9,9 5.8,12.9    6.5,18.2  "
+   id="polygon1531"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polygon
+   class="st1"
+   points="5.5,18.5 9,21.5 12,19.5 15,21.5 18.5,18.5 17,23.5 14.5,23.5 12,22 9.5,23.5 7,23.5  "
+   id="polygon1533"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polyline
+   class="st2"
+   points="6.5,18.2 5.5,10.5 8,7 12,5.5 16,7 18.5,10.5 17.5,18.2  "
+   id="polyline1535"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polygon
+   class="st2"
+   points="17,23.5 14.5,23.5 12,22 9.5,23.5 7,23.5 5.5,18.5 12,16.5 18.5,18.5  "
+   id="polygon1537"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polyline
+   class="st2"
+   points="8,7 4.5,5.5 0.5,0.5 1.5,6.5 5.5,10.5 1.5,12 4,14.5 5.8,12.7  "
+   id="polyline1539"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<polyline
+   class="st2"
+   points="16,7 19.5,5.5 23.5,0.5 22.5,6.5 18.5,10.5 22.5,12 20,14.5 18.2,12.7  "
+   id="polyline1541"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<line
+   class="st2"
+   x1="9.5"
+   y1="12.5"
+   x2="9.5"
+   y2="11.5"
+   id="line1543"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<line
+   class="st2"
+   x1="10.5"
+   y1="19.5"
+   x2="10.5"
+   y2="20.5"
+   id="line1545"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<line
+   class="st2"
+   x1="14.5"
+   y1="12.5"
+   x2="14.5"
+   y2="11.5"
+   id="line1547"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+	<line
+   class="st2"
+   x1="13.5"
+   y1="19.5"
+   x2="13.5"
+   y2="20.5"
+   id="line1549"
+   style="stroke:#5f6769;stroke-opacity:0.99607843;fill:none;fill-opacity:1" />
+</g>
+
+</svg>
