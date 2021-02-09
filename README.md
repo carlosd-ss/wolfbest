@@ -6,7 +6,7 @@
 
 ## :books: Introduction
 
-*repository with various interfaces and layouts from different places*
+*repository using CSS grid layout*
 
 
 
