@@ -1,4 +1,4 @@
-<img src="https://github.com/carlosd-ss/wolbest/blob/master/.github/wolf.svg" widht="200" height="200"> 
+<img src="https://github.com/carlosd-ss/wolfbest/blob/master/.github/wolf.svg" widht="200" height="200"> 
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=%23444444)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=%23444444)
@@ -15,9 +15,9 @@
 
 ```zsh
 
- $ git clone git@github.com:carlosd-ss/basic-ui.git
+ $ git clone git@github.com:carlosd-ss/wolfbest.git
 
- $ cd basic-ui
+ $ cd wolfbest
  
  RUN index.html
 ```
